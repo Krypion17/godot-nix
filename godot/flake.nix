@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-unstable";
-    godot-git-plugin.url = "https://github.com/godotengine/godot-git-plugin/releases/latest/download/godot-git-plugin-v3.2.0.zip";
+    godot-git-plugin.url = "https://github.com/godotengine/godot-git-plugin/releases/latest/download/godot-git-plugin-v3.2.1.zip";
     godot-git-plugin.flake = false;
   };
 
